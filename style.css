@@ -1,0 +1,36 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(62, 64, 74);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    
+}
+#textbox
+{
+    width: 300px;
+}
+body {
+    font-family: 'Lobster', cursive; 
+    background-image: linear-gradient(to right top, #fa007d,#ffffff, #ff00ea, #3700ff, #ffffff, #ff00aa);
+  }
+  img{
+    width: 35%;
+    border-radius: 4px;
+    padding: 8px;
+  }
+  .column{
+    display: inline;
+    padding: 8px;
+  }
+  img:hover{
+    border-radius: 150px;
+  }
